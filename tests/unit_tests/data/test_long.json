@@ -1,0 +1,10 @@
+{"userAgent": "0", "timestamp": "0", "elapsed_ms": "10"}
+{"userAgent": "0", "timestamp": "10", "elapsed_ms": "10"}
+{"userAgent": "1", "timestamp": "0", "elapsed_ms": "5"}
+{"userAgent": "2", "timestamp": "5", "elapsed_ms": "20"}
+{"userAgent": "3", "timestamp": "0", "elapsed_ms": "20"}
+{"userAgent": "4", "timestamp": "5", "elapsed_ms": "5"}
+{"userAgent": "4", "timestamp": "11", "elapsed_ms": "10"}
+{"userAgent": "5", "timestamp": "10", "elapsed_ms": "10"}
+{"userAgent": "5", "timestamp": "20", "elapsed_ms": "10"}
+{"userAgent": "5", "timestamp": "30", "elapsed_ms": "10"}
